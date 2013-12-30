@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+/* CSS Document */
+
+a:link {color:#0033FF;}    /* unvisited link */
+a:visited {color:#0033FF;} /* visited link */
+a:hover {color:#0033FF;}   /* mouse over link */
+a:active {color:#0033FF;}  /* selected link */
+
+body {
+  padding-top: 50px;
+}
+
+.starter-template {
+
+  padding: 40px 15px;
+  text-align: center;
+}
